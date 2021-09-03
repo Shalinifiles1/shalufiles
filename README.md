@@ -1,2 +1,0 @@
-# shalufiles
-all shalini files
