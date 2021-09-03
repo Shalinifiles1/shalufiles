@@ -2,7 +2,7 @@ package session1;
 
 public class Class1 {
 	public static void main(String[] args) {
-		String name="Lokesh";
+		String name="shalini";
 		int age = 19;
 		printName(name);
 	}
